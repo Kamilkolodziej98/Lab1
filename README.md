@@ -1,7 +1,7 @@
 # Lab1
 
-## Sekcja 1
+## Sekcja
 
-### Podrozdział 1
+### Podrozdział
 
 Visual Studio Code 
